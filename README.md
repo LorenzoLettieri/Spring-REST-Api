@@ -10,8 +10,6 @@ This project is a simple REST API built with Spring Boot, using various plugins 
   - [Installation](#installation)
 - [API Endpoints](#api-endpoints)
 - [Database Migrations](#database-migrations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
