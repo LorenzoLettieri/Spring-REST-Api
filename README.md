@@ -2,6 +2,17 @@
 
 This project is a simple REST API built with Spring Boot, using various plugins to enhance code quality and reduce boilerplate.
 
+## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [API Endpoints](#api-endpoints)
+- [Database Migrations](#database-migrations)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Technologies Used
 
 - **Spring & Spring Boot**
@@ -51,7 +62,7 @@ This project is a simple REST API built with Spring Boot, using various plugins 
    mvn spring-boot:run
    ```
 
-### API Endpoints
+## API Endpoints
 
 These APIs expose information about a list of registered users. You can explore the following endpoints:
 
@@ -78,8 +89,4 @@ Flyway ensures that database migrations are applied automatically on application
 ```
 /src/main/resources/db/migration/
 ```
-
-
-
-
 
